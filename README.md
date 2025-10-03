@@ -8,3 +8,5 @@ Simulate real-world healthcare scenarios with diagnostic commentary
 Tie queries to outcomes like billing integrity and patient throughput
 Lay groundwork for future modeling (e.g., classification, anomaly detection)
 Schema summaries and query modules coming
+
+Due to GitHub’s file size limits, the full Medicare dataset is analyzed within the notebook. A reduced sample or aggregated view may be uploaded later. All semantic cleaning, clustering, and visualizations are documented in the notebook.  Notebook coming soon!
